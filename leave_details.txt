@@ -1,0 +1,6 @@
+1051,MC,25
+1051,Annual,18
+1051,Vacation,30
+1001,Annual,3
+1001,Vacation,30
+1001,MC,20

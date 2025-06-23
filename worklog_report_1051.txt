@@ -1,0 +1,47 @@
+Worklog Summary Report for Employee ID: 1051
+Employee Name: chong zhi hao
+Total Worklog Entries: 8
+----------------------------------------
+
+Entry #1:
+ID: 4
+Task: eat supper
+Date: 2025-06-24
+----------------------------------------
+Entry #2:
+ID: 3
+Task: enter data
+Date: 2025-06-23
+----------------------------------------
+Entry #3:
+ID: 5
+Task: event at princess cove
+Date: 2025-06-25
+----------------------------------------
+Entry #4:
+ID: 6
+Task: out for work
+Date: 2025-06-26
+----------------------------------------
+Entry #5:
+ID: 8
+Task: sleep
+Date: 2025-06-28
+----------------------------------------
+Entry #6:
+ID: 2
+Task: swipe window
+Date: 2025-06-22
+----------------------------------------
+Entry #7:
+ID: 1
+Task: wipe the floor
+Date: 2025-06-21
+----------------------------------------
+Entry #8:
+ID: 7
+Task: workout
+Date: 2025-06-27
+----------------------------------------
+
+Report generated on: 2025-06-22

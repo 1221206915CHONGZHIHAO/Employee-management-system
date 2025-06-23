@@ -1,0 +1,613 @@
+Employee Details:
+ID: 1001
+Name: TAN
+Position: IT
+Salary: 13000.000000
+Join Date: 11/1/2025
+Department: BOSS
+
+Leave Requests:
+1. Type: Annual, Date: 2025-10-24, Days: 6, Reason: NA
+2. Type: Annual, Date: 2024-01-01, Days: 1, Reason: fever
+----------------------------------------
+
+Employee Details:
+ID: 1003
+Name: WONG
+Position: FINANCE
+Salary: 11000.000000
+Join Date: 1/1/2026
+Department: SUPERVISOR
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1004
+Name: CHEN
+Position: IT
+Salary: 10500.000000
+Join Date: 2/1/2026
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1005
+Name: KOH
+Position: HR
+Salary: 10000.000000
+Join Date: 3/1/2026
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1006
+Name: TEO
+Position: FINANCE
+Salary: 9500.000000
+Join Date: 4/1/2026
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1007
+Name: LIM
+Position: IT
+Salary: 9000.000000
+Join Date: 5/1/2026
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1008
+Name: NG
+Position: HR
+Salary: 8500.000000
+Join Date: 6/1/2026
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1009
+Name: GOH
+Position: FINANCE
+Salary: 8000.000000
+Join Date: 7/1/2026
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1010
+Name: ONG
+Position: IT
+Salary: 7500.000000
+Join Date: 8/1/2026
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1011
+Name: TAN
+Position: HR
+Salary: 7000.000000
+Join Date: 9/1/2026
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1012
+Name: KIM
+Position: FINANCE
+Salary: 6500.000000
+Join Date: 10/1/2026
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1013
+Name: PARK
+Position: IT
+Salary: 6000.000000
+Join Date: 11/1/2026
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1014
+Name: CHOI
+Position: HR
+Salary: 5500.000000
+Join Date: 12/1/2026
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1015
+Name: JUNG
+Position: FINANCE
+Salary: 5000.000000
+Join Date: 1/1/2027
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1016
+Name: MIN
+Position: IT
+Salary: 4800.000000
+Join Date: 2/1/2027
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1017
+Name: SEO
+Position: HR
+Salary: 4600.000000
+Join Date: 3/1/2027
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1018
+Name: SHIN
+Position: FINANCE
+Salary: 4400.000000
+Join Date: 4/1/2027
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1019
+Name: YOO
+Position: IT
+Salary: 4200.000000
+Join Date: 5/1/2027
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1020
+Name: JEON
+Position: HR
+Salary: 4000.000000
+Join Date: 6/1/2027
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1021
+Name: HA
+Position: FINANCE
+Salary: 3800.000000
+Join Date: 7/1/2027
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1022
+Name: MOON
+Position: IT
+Salary: 3600.000000
+Join Date: 8/1/2027
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1023
+Name: SON
+Position: HR
+Salary: 3400.000000
+Join Date: 9/1/2027
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1024
+Name: JANG
+Position: FINANCE
+Salary: 3200.000000
+Join Date: 10/1/2027
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1025
+Name: YANG
+Position: IT
+Salary: 3000.000000
+Join Date: 11/1/2027
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1026
+Name: IM
+Position: HR
+Salary: 2900.000000
+Join Date: 12/1/2027
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1027
+Name: BAEK
+Position: FINANCE
+Salary: 2800.000000
+Join Date: 1/1/2028
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1028
+Name: KWON
+Position: IT
+Salary: 2700.000000
+Join Date: 2/1/2028
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1029
+Name: RYU
+Position: HR
+Salary: 2600.000000
+Join Date: 3/1/2028
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1030
+Name: HAN
+Position: FINANCE
+Salary: 2500.000000
+Join Date: 4/1/2028
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1031
+Name: NAM
+Position: IT
+Salary: 2400.000000
+Join Date: 5/1/2028
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1032
+Name: OH
+Position: HR
+Salary: 2300.000000
+Join Date: 6/1/2028
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1033
+Name: SHIM
+Position: FINANCE
+Salary: 2200.000000
+Join Date: 7/1/2028
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1034
+Name: HWANG
+Position: IT
+Salary: 2100.000000
+Join Date: 8/1/2028
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1035
+Name: JEONG
+Position: HR
+Salary: 2000.000000
+Join Date: 9/1/2028
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1036
+Name: CHA
+Position: FINANCE
+Salary: 1900.000000
+Join Date: 10/1/2028
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1037
+Name: MA
+Position: IT
+Salary: 1800.000000
+Join Date: 11/1/2028
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1038
+Name: HEO
+Position: HR
+Salary: 1700.000000
+Join Date: 12/1/2028
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1039
+Name: KO
+Position: FINANCE
+Salary: 1600.000000
+Join Date: 1/1/2029
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1040
+Name: SIM
+Position: IT
+Salary: 1500.000000
+Join Date: 2/1/2029
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1041
+Name: YUN
+Position: HR
+Salary: 1400.000000
+Join Date: 3/1/2029
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1042
+Name: JOO
+Position: FINANCE
+Salary: 1300.000000
+Join Date: 4/1/2029
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1043
+Name: DOH
+Position: IT
+Salary: 1200.000000
+Join Date: 5/1/2029
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1044
+Name: NO
+Position: HR
+Salary: 1100.000000
+Join Date: 6/1/2029
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1045
+Name: BANG
+Position: FINANCE
+Salary: 1000.000000
+Join Date: 7/1/2029
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1046
+Name: HYUN
+Position: IT
+Salary: 1000.000000
+Join Date: 8/1/2029
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1047
+Name: SUNG
+Position: HR
+Salary: 1000.000000
+Join Date: 9/1/2029
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1048
+Name: JIN
+Position: FINANCE
+Salary: 1000.000000
+Join Date: 10/1/2029
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1049
+Name: TAE
+Position: IT
+Salary: 1000.000000
+Join Date: 11/1/2029
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1050
+Name: HYUK
+Position: HR
+Salary: 1000.000000
+Join Date: 12/1/2029
+Department: STAFF
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1051
+Name: chong zhi hao
+Position: Security Guard
+Salary: 3000.000000
+Join Date: 22/06/2025
+Department: Security
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+
+Employee Details:
+ID: 1052
+Name: TAN
+Position: HR
+Salary: 13000.000000
+Join Date: 29/11/2024
+Department: IT
+
+Leave Requests:
+No leave requests found for this employee.
+----------------------------------------
+

@@ -1,0 +1,17 @@
+Worklog Summary Report for Employee ID: 1001
+Employee Name: TAN YU LE
+Total Worklog Entries: 2
+----------------------------------------
+
+Entry #1:
+ID: 2
+Task: test
+Date: 2024-02-05
+----------------------------------------
+Entry #2:
+ID: 1
+Task: Project Discussion
+Date: 2025-04-06
+----------------------------------------
+
+Report generated on: 2025-06-23
